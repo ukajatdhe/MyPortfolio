@@ -1,3 +1,3 @@
 # MyPortfolio
 
-My New Jorney
+My New Jorney as a Full Stack Web Developer
