@@ -1,3 +1,3 @@
-# MyPortfolio
+# My first Homework
 
-My New Jorney as a Full Stack Web Developer
+My first homework!
